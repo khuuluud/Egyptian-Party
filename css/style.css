@@ -62,42 +62,6 @@ text-decoration: none;
 
 
 
-/* 
-.nav-icon {
-    top: 40%;
-    left: -1150px;
-
-}
-
-.offcanvas,
-.offcanvas-lg,
-.offcanvas-md,
-.offcanvas-sm,
-.offcanvas-xl,
-.offcanvas-xxl {
-    background-color: #000;
-
-
-}
-
-.navside span {
-    color: white;
-    font-size: 25px;
-    transition: all 0.4s;
-}
-
-.navside span:hover {
-    color: rgb(197, 45, 187);
-}
-
-#btn-close {
-    color: white;
-    transition: all 0.4s;
-}
-
-#btn-close:hover {
-    color:rgb(197, 45, 187);
-} */
 
 
 /* details */
